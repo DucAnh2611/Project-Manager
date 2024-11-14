@@ -1,1 +1,3 @@
-export enum AppErrorCode {}
+export enum EErrorCode {
+    PROCESSING = 'EC_9999',
+}
