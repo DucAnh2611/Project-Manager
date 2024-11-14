@@ -1,3 +1,3 @@
 export const ErrorCodeConfig = {
-    format: '',
+    format: '<PREFIX>_<ERROR_CODE>',
 };
